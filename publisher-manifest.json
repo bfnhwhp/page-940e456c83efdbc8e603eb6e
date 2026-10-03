@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "f43fb396617157b24cb14ad8",
+  "owner": "bfnhwhp",
+  "repo": "page-940e456c83efdbc8e603eb6e",
+  "title": "看片云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "940e456c83efdbc8e603eb6e",
+      "a": "看片云",
+      "b": "",
+      "entity": "看片云",
+      "brand": "看片云",
+      "separator": "",
+      "path": "index.html",
+      "hash": "55dca5ab8cb6670b2b565910bbf735eaa274bac8a825053be7c6d1ab6040a4e9",
+      "content": {
+        "keyword1": "看片云",
+        "keyword2": "",
+        "primary_entity": "看片云",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "看片云提供专业VPN梯子与机场服务，支持多端客户端下载、全球节点加速、原生流媒体解锁及灵活套餐，是您网络加速与看片的可靠选择。",
+          "AI_DESCRIPTION": "看片云提供专业VPN梯子与机场服务，支持多端客户端下载、全球节点加速、原生流媒体解锁及灵活套餐，是您网络加速与看片的可靠选择。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box;margin:0;padding:0}body{font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",sans-serif;background:#FFF9F5;color:#2A2A2A;line-height:1.7;font-size:16px} .wrap{max-width:960px;margin:0 auto;padding:16px} header{background:#FFFFFF;border-bottom:3px solid #E07A5F;padding:12px 0;margin-bottom:12px} nav{display:flex;flex-wrap:wrap;gap:8px 14px} nav a{color:#C45C26;text-decoration:none;font-weight:600;font-size:0.95rem} h1{font-size:1.75rem;color:#C45C26;margin:12px 0 10px;font-weight:700} h2{font-size:1.35rem;color:#D35400;margin:28px 0 12px;border-left:4px solid #E07A5F;padding-left:10px} h3{font-size:1.12rem;color:#333;margin:16px 0 8px} p{margin-bottom:12px} .lead{font-size:1.05rem} .cards{display:flex;flex-wrap:wrap;gap:12px;margin:16px 0} .card{flex:1 1 260px;background:#FFFFFF;border:1px solid #F0D9CC;border-radius:8px;padding:16px} .card.featured{border:2px solid #E07A5F;background:#FFF5F0} .price{font-size:1.35rem;color:#E07A5F;font-weight:700;margin:6px 0} .annual{font-size:0.9rem;color:#6B6B6B;margin-bottom:8px} ul,ol{padding-left:1.25rem;margin:8px 0 12px} li{margin-bottom:6px} details{background:#FFFFFF;border:1px solid #F0D9CC;margin:8px 0;padding:10px 14px;border-radius:6px} summary{font-weight:600;color:#C45C26} .ads{background:#FFE8E0;padding:14px;margin:24px 0;border-radius:8px;text-align:center;border:1px solid #F0C4B4} .links a{color:#C45C26;margin-right:12px;text-decoration:none} footer{margin-top:36px;padding:20px 0;border-top:1px solid #F0D9CC;font-size:0.9rem;color:#555} a{color:#C45C26} @media(max-width:640px){.card{flex:1 1 100%}h1{font-size:1.5rem}nav a{font-size:0.9rem}}</style><header><div class=\"wrap\"><nav><a href=\"#intro\">品牌简介</a><a href=\"#plans\">套餐对比</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">操作说明</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a><a href=\"#map\">网站地图</a></nav></div></header><main class=\"wrap\"><h1>看片云</h1><p class=\"lead\">看片云官方网站提供VPN梯子、机场订阅与多端客户端下载，帮助您稳定加速网络、解锁流媒体并畅快看片与游戏。</p><section id=\"intro\"><h2>品牌简介</h2><p>看片云是面向个人与团队的网络加速品牌，以机场订阅为核心，搭配自建优质节点与智能分流。用户完成订阅后即可在官方客户端或兼容软件中导入链接，按需切换线路，兼顾日常浏览、高清看片、在线课堂与跨境协作。</p><p>我们强调线路可用性与操作简便：基础套餐覆盖常用加速需求，旗舰与团队方案强化原生流媒体解锁、IPLC 游戏优化及更多同时在线设备。所有说明、套餐与下载入口均集中在本官网，便于核对官方身份并完成客户端配置。</p></section><section id=\"plans\"><h2>套餐对比</h2><p>以下为看片云当前公开套餐，可按月使用或按年付降低成本。订阅成功后将获得专属机场订阅地址，可用于主流客户端一键更新节点。</p><div class=\"cards\"><div class=\"card\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></div><div class=\"card featured\"><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></div><div class=\"card\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></div></div><p>流量按自然月周期统计与重置。选择套餐时请结合同时在线设备数、看片时长与是否需要游戏专线来决定，避免高峰时段因配额不足中断加速。</p></section><section id=\"scenes\"><h2>使用场景</h2><h3>流媒体看片与长视频</h3><p>看片云节点针对常见海外视频平台做了解锁与稳定性优化。旗舰版强调全节点原生解锁，适合连续观看高清内容，减少反复缓冲与地区限制提示。</p><h3>游戏加速</h3><p>需要更低延迟时可选用带 IPLC 专线说明的套餐，将游戏流量走优化线路，同时用分流规则让国内登录与更新尽量直连，减轻不必要的绕行。</p><h3>学习办公与多设备共享</h3><p>远程会议、云盘同步、文献检索等场景依赖稳定长连接。团队版提高设备上限与带宽优先级，适合家庭多终端或小型协作组共用同一订阅。</p><h3>出行与移动网络</h3><p>在公共 Wi-Fi 或不稳定蜂窝网络下，通过手机客户端导入看片云订阅，可快速切换备用节点，维持邮箱、即时通讯与轻量看片需求。</p></section><section id=\"guide\"><h2>操作说明</h2><h3>从订阅到连接的步骤</h3><ol><li>在本官网对比套餐并完成订阅，保存机场订阅链接与账户信息。</li><li>进入「官方客户端下载」按系统获取安装包或配置说明，仅使用官网指引的来源。</li><li>打开客户端，选择从 URL 更新或导入订阅，等待节点列表刷新。</li><li>根据延迟与用途选择节点：看片优先流媒体解锁线路，对战优先游戏优化线路。</li><li>连接后检查流量与剩余配额；需要时在客户端内切换节点或更新订阅。</li></ol><p>Windows 与 macOS 常用兼容订阅的图形客户端；Android、iOS 可使用支持订阅的应用并按系统要求完成配置文件安装。路由器用户可将订阅用于支持的插件，实现全家设备覆盖，但仍需遵守套餐设备与流量限制。</p></section><section id=\"download\"><h2>官方客户端下载</h2><p>看片云支持将同一机场订阅用于多平台。请先完成套餐订阅，再下载对应客户端并导入链接。下列入口均为本页锚点指引，便于识别官网下载路径。</p><ul><li><a href=\"#download\">Windows 客户端下载</a>：安装后添加订阅 URL，适合桌面看片与办公。</li><li><a href=\"#download\">macOS 客户端下载</a>：支持菜单栏快捷切换节点。</li><li><a href=\"#download\">Android 官方下载</a>：适用于手机与平板，建议关闭省电限制以保证后台连接。</li><li><a href=\"#download\">iOS 配置说明</a>：按系统版本导入描述文件或第三方兼容客户端。</li><li><a href=\"#download\">Linux 与路由器订阅</a>：使用兼容内核的配置，注意防火墙与 DNS 设置。</li></ul><p>请勿使用来路不明的修改包。若节点无法更新，优先在客户端内重新导入订阅并核对系统时间、网络权限。</p></section><section><h2>节点与加速说明</h2><p>看片云线路覆盖常用出境方向，日常以智能分流降低延迟：国内站点直连，跨境访问走代理。晚高峰会动态调整拥塞节点。流媒体解锁依赖对应地区出口，游戏优化依赖专线与规则，实际体验与本地运营商、时段有关。遇到单条线路异常时，切换同区域其他节点即可，无需反复重装客户端。</p></section><section id=\"faq\"><h2>常见问题</h2><details><summary>看片云是什么？和普通加速器有何不同？</summary><p>看片云是提供机场订阅的网络加速服务，用户获得的是可更新的节点池而非单一固定出口。您可以在官方或兼容客户端中按延迟、解锁能力自由切换，更适合同时有看片、游戏和办公需求的场景。</p></details><details><summary>如何完成官网下载并导入订阅？</summary><p>先在本站选定套餐获取订阅地址，再打开「官方客户端下载」按设备安装。客户端内选择从 URL 更新，粘贴链接后刷新节点。若列表为空，检查链接完整性、系统代理冲突以及是否被本地安全软件拦截。</p></details><details><summary>三个套餐该怎么选？流量不够用怎么办？</summary><p>轻度浏览与偶尔看片可选基础版；经常解锁流媒体或需要游戏专线选旗舰版；多设备、高流量或需要定制路由选团队版。流量按月重置，接近上限时可减少 4K 时长或升级套餐，按年付可降低平均成本。</p></details><details><summary>同时在线设备超限会怎样？</summary><p>基础版 3 台、旗舰版 5 台、团队版 20 台。超出后可能出现频繁掉线或新设备无法认证。建议关闭长期挂机的闲置终端，或将常用设备固定在同一套餐额度内。</p></details><details><summary>能否稳定解锁流媒体？需要哪些套餐？</summary><p>基础版提供基础解锁，旗舰版与团队版强调全节点原生流媒体解锁。平台策略会变化，若某条线路提示地区限制，请更换同类型解锁节点并更新客户端规则，无需更换订阅地址。</p></details><details><summary>连接失败或速度慢时如何排查？</summary><p>依次尝试：更新订阅、更换节点、切换传输协议、关闭冲突代理、检查系统时间。游戏场景优先使用标明专线优化的节点。仍无法解决时，旗舰与团队用户可通过优先工单提交节点名称与错误提示。</p></details></section><div class=\"ads\" id=\"ads\"><p>广告：看片云年付通道开启，旗舰版与团队版可锁定更长周期的加速配额，适合长期看片与多设备共享。</p></div><section><h2>友情链接</h2><p class=\"links\"><a href=\"#\">客户端配置手册</a><a href=\"#\">流媒体区域说明</a><a href=\"#\">网络加速常识</a><a href=\"#\">分流规则入门</a></p></section><section id=\"map\"><h2>网站地图</h2><ul><li><a href=\"#intro\">品牌简介</a></li><li><a href=\"#plans\">套餐对比</a></li><li><a href=\"#scenes\">使用场景</a></li><li><a href=\"#guide\">操作说明</a></li><li><a href=\"#download\">官方客户端下载</a></li><li><a href=\"#faq\">常见问题</a></li><li><a href=\"#ads\">合作信息</a></li></ul></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><p>看片云官方网站提供 VPN 梯子、机场订阅与客户端下载相关说明。请通过本页锚点访问套餐、教程与 FAQ。</p><p><a href=\"#intro\">关于看片云</a> · <a href=\"#guide\">使用条款指引</a> · <a href=\"#faq\">帮助中心</a></p></div></footer>",
+          "hash": "126b070ecb3d708d07c4cbbc57f8472b0506aa95f6ca07795f39a166d076a5c6",
+          "seo": {
+            "title": "看片云官方网站 | VPN梯子网络加速器与机场订阅客户端下载",
+            "keywords": "看片云,看片云VPN,看片云机场,VPN梯子,网络加速器,客户端下载,官网下载,机场订阅,流媒体解锁,游戏加速",
+            "description": "看片云提供专业VPN梯子与机场服务，支持多端客户端下载、全球节点加速、原生流媒体解锁及灵活套餐，是您网络加速与看片的可靠选择。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "akivs.cn",
+    "host": "p-b10f0bc128.akivs.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "akivs.cn",
+      "url": "https://akivs.cn/",
+      "label": "Bitz",
+      "apex": "akivs.cn",
+      "kind": null,
+      "identity": "kbxmsy/page-557d3d7202e72c3b356abaf4"
+    },
+    {
+      "host": "00ah6.cn",
+      "url": "https://00ah6.cn/",
+      "label": "SSHUB",
+      "apex": "00ah6.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-6141714b7a0f264666643c94"
+    },
+    {
+      "host": "01kmph.cn",
+      "url": "https://01kmph.cn/",
+      "label": "WeGo",
+      "apex": "01kmph.cn",
+      "kind": null,
+      "identity": "wbwftxwku/page-680ee6fa2562d6d22ba5a121"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "587bb48e6c8225f3ec6ef5ca8b4af75be9bd002c43e0239915bbc7d462e21e02",
+    "sitemap.xml": "935bef5bed1e7750690ce572e441668504eaa8d981416cfa0baee004c95fa50c",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "7a2eaf447775bb61a37727330c616a8c360c3e84206de751ed2005bb575014b7",
+    "robots.txt": "3c8a0cbc973a35f0731979b243d2163fbd4f36ea36e76282e907a34ee8d972ac",
+    "5cd814072747cd73545a02026c1c82dd.txt": "2b36fcf14d73a12183e3e6e667b9b93fa87fe53d3569714f87725996427d4734"
+  },
+  "revision": "6b6df1a2451ee8417f1b22eb55d48520dd1c70919e8bafd1c10c27ea1089bd1d"
+}

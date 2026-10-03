@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-b10f0bc128.akivs.cn/sitemap.xml
